@@ -12,10 +12,11 @@ Proyek ini mengimplementasikan **klasifikasi citra daun padi** menggunakan **Con
 > Proyek ini ditujukan untuk membantu deteksi dini penyakit pada tanaman padi secara otomatis berbasis visual, sebagai bagian dari pengaplikasian *pattern recognition* dalam bidang pertanian cerdas (*smart farming*).
 
 ---
+## 📸 File .keras
 
-## 📸 Contoh Tampilan Aplikasi
+(https://drive.google.com/file/d/12HdnkY9k2kQgG09OixVDsKLN2UW-fwx3/view?usp=sharing)
 
-![Contoh GUI](https://via.placeholder.com/400x500.png?text=Contoh+Tampilan+GUI)
+
 
 ---
 
@@ -59,4 +60,31 @@ Proyek ini mengimplementasikan **klasifikasi citra daun padi** menggunakan **Con
 ---
 
 ## 📁 Struktur Folder
+
+| File | Deskripsi |
+|------|-----------|
+| `best_resnet_model.keras` | Model deep learning hasil training (ResNet50) |
+| `gui_app.py` | Aplikasi GUI berbasis Tkinter |
+| `klasifikasi_penyakit_pada_tanaman_padi.ipynb` | Notebook eksplorasi awal & visualisasi |
+| `README.md` | Dokumentasi proyek |
+
+
+
+---
+
+## 🎓 Kontribusi Mahasiswa
+
+- **Nama**: Muhammad Fakhrur Rozi – **NIM**: 202351090  
+- **Nama**: Iqbal Saiful Amri – **NIM**: 202351093  
+- **Mata Kuliah**: Pengenalan Pola  
+- **Dosen Pengampu**: Endang Supriyati, S.Kom., M.Kom.
+
+---
+
+## 📬 Lisensi
+
+MIT License. Bebas digunakan untuk pembelajaran dan pengembangan lanjutan.
+
+> _"Pattern Recognition bukan sekadar teori — ia dapat menyelamatkan hasil panen."_
+
 
